@@ -1,6 +1,7 @@
 # Sentiment_Analysis_of_Flipkart_Product
 
-#Problem Statement- If user want to buy the particular product from an E-commerce website, how user can conclude that the product one should buy based on the review given by the past users.It can be done on the basis of the the sentiment analysis.
+#
+Problem Statement- If user want to buy the particular product from an E-commerce website, how user can conclude that the product one should buy based on the review given by the past users.It can be done on the basis of the the sentiment analysis.
 
 # Project Flow:-
 1) Web scrapping with the help of BeautifulSoup
