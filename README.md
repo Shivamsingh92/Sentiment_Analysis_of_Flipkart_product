@@ -1,4 +1,5 @@
 # Sentiment_Analysis_of_Flipkart_Product
+<img src= "https://monkeylearn.com/static/3c5207a1ee59b7f80a386624403b4689/social.png"/>
 
 #
 Problem Statement- If user want to buy the particular product from an E-commerce website, how user can conclude that the product one should buy based on the review given by the past users.It can be done on the basis of the the sentiment analysis.
